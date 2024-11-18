@@ -2,12 +2,12 @@
 
 :root{
 --text-color: #ffffff;
---card-front-color: #09683d;
---card-back-color: #15AE68;
+--card-front-color: #3ca2a2;
+--card-back-color: #215a6d;
 }
 
 body {
-background: url(img/bg-desktop-green.webp);
+background: url(img/img.jpg);
 font-family: Tomorrow;
 }
 
